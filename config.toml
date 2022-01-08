@@ -1,0 +1,4 @@
+baseURL = 'https://nicholassynovic.github.io/'
+languageCode = 'en-us'
+title = 'r-w-x Nick'
+theme = "ananke"
