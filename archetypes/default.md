@@ -14,6 +14,7 @@ layout:
 lastMod: ""
 linkTitle: ""
 markup: "md"
+menu: ""
 outputs: []
 publishDate: ""
 resources: []
