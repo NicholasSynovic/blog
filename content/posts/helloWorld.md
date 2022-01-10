@@ -1,32 +1,16 @@
 ---
-aliases: []
-audio: []
-cascade: {}
 date: 2022-01-10T12:25:15-06:00
-description: "Change Me!"
-draft: true
-expiryDate: ""
-headless: false
-images: []
-isCJKLanguage: false
-keywords: []
-layout: 
-lastMod: ""
-linkTitle: ""
-markup: "md"
-menu: ""
-outputs: []
-publishDate: ""
-resources: []
-series: [{}]
-slug: ""
-summary: ""
-title: "HelloWorld"
-type: ""
-url: ""
-videos: []
-weight: 
-include_toc: true
+description: "This is my first post on this blog"
+summary: "This is my first post on this blog"
+title: "Hello World"
+toc: true
 show_comments: true
 ---
 
+> This is my first post on this blog
+
+# How to navigate this site
+
+If you want to learn more about this site in a *Who, What, Where, When, Why, and How* questions and answers format, click [About](../../about)
+
+If you want to reach out to me, you can find a full list of my socials on the [Contact](../../contact) page. You can also click any of the social icons in the header or footer of any of the pages on this site.
