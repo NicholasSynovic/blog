@@ -1,5 +1,5 @@
 title = "r-w-x Nicholas"
-baseURL = "https://nicholassynovic.github.io"
+baseURL = "https://nicholassynovic.github.io/blog"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
