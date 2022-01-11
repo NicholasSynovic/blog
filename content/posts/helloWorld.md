@@ -9,7 +9,7 @@ toc: true
 
 > This is my first post on this blog
 
-# How to navigate this site
+## How to navigate this site
 
 If you want to learn more about this site in a *Who, What, Where, When, Why, and How* questions and answers format, click [About](../../about)
 
