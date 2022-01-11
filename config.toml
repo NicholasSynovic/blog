@@ -24,7 +24,7 @@ disqusShortname = "nicholassynovic"
   favicon = ""
   site_logo = ""
   description = "Read, Write, Execute"
-  background_color_class = "bg-blue"
+  background_color_class = "bg-green"
   recent_posts_number = 5 
 
 [[params.ananke_socials]]
