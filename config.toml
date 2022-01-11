@@ -25,7 +25,6 @@ disqusShortname = "nicholassynovic"
   site_logo = ""
   description = "Read, Write, Execute"
   background_color_class = "bg-blue"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 5 
 
 [[params.ananke_socials]]
