@@ -1,10 +1,10 @@
 ---
 date: 2022-01-10T12:25:15-06:00
 description: "This is my first post on this blog"
+show_comments: true
 summary: "This is my first post on this blog"
 title: "Hello World"
 toc: true
-show_comments: true
 ---
 
 > This is my first post on this blog
