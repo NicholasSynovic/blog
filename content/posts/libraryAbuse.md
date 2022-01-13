@@ -60,7 +60,7 @@ As well as subscribing to online versions of newspapers, streaming services, and
 
 By subscribing to these different services, the library is given a portal to which any card carrying member can access a service's information for *free*.
 Allowing you to access content that is restricted behind a paywall.
-And good content to.
+And good content too.
 
 My library offers *The Great Courses*, *TIMES Magazine*, *Scientific American*, audiobooks, a wide range of e-books, documentaries, scholarly journals and articles, local, national, and global newspapers, and educational tools to anyone that signs up for *free*.
 If I were to go and subscribe to each one of the above services, or start manually tracking down places online where I can get this content for free illegally, I would be incurring an extreme cost.
