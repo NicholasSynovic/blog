@@ -6,4 +6,4 @@ title: "r-w-x Nicholas"
 featured_image: "background.jpg"
 ---
 
-A blog create by Nicholas Synovic to share and disseminate information
+A blog created by Nicholas Synovic to share and disseminate information
