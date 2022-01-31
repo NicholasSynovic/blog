@@ -56,13 +56,13 @@ To research this I first started by exploring what's a Tide Pod their history.
 
 #### Who Created Tide Pods?
 
-In my brief research, I didn't find a specific individual who created the "Tide Pod".
+In my brief research, I didn't find a specific individual who created the Tide Pod.
 
-The [Tide](https://tide.com/en-us) company is owned by [Proctor & Gamble](https://us.pg.com/brands/#Fabric-Care). So "[Tide Pods](https://tide.com/en-us/shop/type/laundry-pods)" as a product are marketed and sold by the [Tide](https://tide.com/en-us) company, however, [Proctor & Gamble](https://us.pg.com/brands/#Fabric-Care) have a stake in the success of the product (being the parent company and all).
+The [Tide](https://tide.com/en-us) company is owned by [Proctor & Gamble (P&G)](https://us.pg.com/brands/#Fabric-Care). So [Tide Pods](https://tide.com/en-us/shop/type/laundry-pods) as a product are marketed and sold by the [Tide](https://tide.com/en-us) company, however, [P&G](https://us.pg.com/brands/#Fabric-Care) have a stake in the success of the product (being the parent company and all).
 
 #### What is a Tide Pod?
 
-A "Tide Pod" is generically called a [laundry detergent pod](https://en.wikipedia.org/wiki/Laundry_detergent_pod). These pods have been around since the '60s, but more on that later.
+A Tide Pod is generically called a [laundry detergent pod](https://en.wikipedia.org/wiki/Laundry_detergent_pod). These pods have been around since the '60s, but more on that later.
 
 These pods contain concentrated detergent and other cleaning chemicals used to treat dirty laundry contained within a water-soluble casing.
 
@@ -72,11 +72,13 @@ You simply throw one of the pods into your laundry machine, load in the laundry 
 
 #### The Brief History
 
-Turns out this isn't the first time that Proctor & Gamble have tried their hand at laundry detergent pods.
+Turns out this isn't the first time that P&G has tried its hand at laundry detergent pods.
 
-Back in the '60s, they released a product called "Salvo" tablets. These operate in the same manner as Tide Pods in that they are a mechanism to deliver concentrated detergent into a washing machine as a solid form. However, they were dry tablets that contained essentially detergent dust shaped into a hockey puck. They were discontinued in 1978 because they didn't sometimes fully dissolve, causing chunks of it to be left on clothes and at the bottom of laundry drums.
+Back in the '60s, they released a product called Salvo tablets. These operate in the same manner as Tide Pods in that they are a mechanism to deliver concentrated detergent into a washing machine as a solid form. However, they were dry tablets that contained essentially detergent dust shaped into a hockey puck. They were discontinued in 1978 because they didn't sometimes fully dissolve, causing chunks of it to be left on clothes and at the bottom of laundry drums.
 
-But in Europe, laundry tablets took off in 1998 under the Unilever company under the name "Persil". Proctor & Gamble responded by releasing laundry tablets in Europe the following year. However, "Persil" didn't do well in America [because they didn't dissolve well in American washers](https://en.wikipedia.org/wiki/Laundry_detergent_pod#History), just like the "Salvo" tablets.
+But in Europe, laundry tablets took off in 1998 under the Unilever company under the name Persil. P&G responded by releasing laundry tablets in Europe the following year. However, Persil didn't do well in America [because they didn't dissolve well in American washers](https://en.wikipedia.org/wiki/Laundry_detergent_pod#History), just like the Salvo tablets.
+
+> Source: [The New York Times](https://www.nytimes.com/2000/08/25/business/media-business-advertising-unilever-procter-gamble-line-up-campaigns-for-new.html)
 
 ```text
 Total Side Note:
@@ -94,11 +96,9 @@ Here's the hypothesis, Venmo me later:
 Salvo tablets will not fully dissolve in the washing machine drum spins on the Y-axis.
 ```
 
-> Source: [The New York Times](https://www.nytimes.com/2000/08/25/business/media-business-advertising-unilever-procter-gamble-line-up-campaigns-for-new.html)
+It wasn't until 2012 that Tide released the first liquid laundry detergent pod known as Tide Pods.
 
-It wasn't until 2012 that Tide released the first liquid laundry detergent pod known as "Tide Pods".
-
-> Source: [Proctor & Gamble Press Release](https://news.pg.com/news-releases/news-details/2012/Tide-Puts-a-Spin-on-Laundry-with-the-Introduction-of-Tide-Pods/default.aspx)
+> Source: [P&G Press Release](https://news.pg.com/news-releases/news-details/2012/Tide-Puts-a-Spin-on-Laundry-with-the-Introduction-of-Tide-Pods/default.aspx)
 
 Currently (January 31st, 2022) the top-rated Tide Pod product on Amazon.com goes for $23.99, contains 96 individual Tide Pods per container, and does triple duty as a detergent, stain remover, and color protector.
 
