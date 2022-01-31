@@ -29,7 +29,7 @@ And as I looked down the mountain of time that I have climbed and looked into th
 
 I'm not going to lie, this is just an excuse to practice the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method) and to get better at blogging as it is one of my goals for 2022 (but we can see how well that has been going).
 
-The [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method) is something that I learned back in middle school and have forgotten about until I started working on this problem. It is a cyclical pattern where the input is an **[Observation/Question](#observationquestion)**, followed by **[Research into the Topic Area](#research-into-the-topic-area)**, then a **Hypothesis** as to what the solution/outcome of an experiment will be, then **Testing the Hypothesis with an Experiment**, followed by an **Analysis of the Experimental Data**, then a **Report**, and restarting the cycle with **Observation/Question** as we started.
+The [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method) is something that I learned back in middle school and have forgotten about until I started working on this problem. It is a cyclical pattern where the input is an **[Observation/Question](#observationquestion)**, followed by **[Research into the Topic Area](#research-into-the-topic-area)**, then a **[Hypothesis](#the-hypothesis)** as to what the solution/outcome of an experiment will be, then **[Testing the Hypothesis with an Experiment](#the-experiment)**, followed by an **[Analysis of the Experimental Data](#analyzing-the-data)**, then a **[Report](#report)**, and restarting the cycle with **[Observation/Question](#observationquestion)** as we started.
 
 ![The Scientific Method Pattern](images/theScientificMethod.png)
 
