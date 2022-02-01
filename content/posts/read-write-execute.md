@@ -4,7 +4,7 @@ description: "I'm worried that I'm unemployable. I'm going to fix that."
 draft: False
 show_comments: true
 summary: "I have long held the feeling that my university education has limited me to what my university thinks what businesses want, not what businesses need. I think I found a way to fix that."
-title: "Improving My Education"
+title: "Read, Write, Execute"
 type: "post"
 toc: true
 ---
