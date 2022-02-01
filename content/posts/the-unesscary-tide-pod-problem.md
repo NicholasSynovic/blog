@@ -11,19 +11,15 @@ toc: true
 
 ## The Problem
 
-I was in the process of destroying my room to find a webcam mount when I asked myself the simple question:
-*How many Tide Pods do I have left?*
+I was in the process of destroying my room to find a webcam mount when I asked myself the simple question: *How many Tide Pods do I have left?*
 
 This is an important question considering my laundry day is upcoming and I don't want to go shopping in this weather or spend money.
 
-This then raised the question:
-*Do I have money for Tide Pods?*
+This then raised the question: *Do I have money for Tide Pods?*
 
-Causing me to then ask:
-*How much money have I spent on Tide Pods?*
+Causing me to then ask: *How much money have I spent on Tide Pods?*
 
-And as I looked down the mountain of time that I have climbed and looked into the heaven of what is to come (if only I wrote this back in my high school English classes) I asked in fear:
-*How much money **will** I spend on Tide Pods?*
+And as I looked down the mountain of time that I have climbed and looked into the heaven of what is to come (if only I wrote this back in my high school English classes) I asked in fear: *How much money **will** I spend on Tide Pods?*
 
 ## The Scientific Method
 
