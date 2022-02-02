@@ -15,7 +15,7 @@ toc: true
 
 The idea behind the quote is that if you draw a circle around what you know or feel like you know, then draw a larger circle around that one and shade in the area of it (minus the inner circle), then that shaded area is everything that you don't know. I think the graphic below sums it up nicely.
 
-![You Don't Know What You Don't Know Image](images/you-dont-know-what-you-dont-know.png)
+![You Don't Know What You Don't Know Image](../images/you-dont-know-what-you-dont-know.png)
 
 The point is that there is a whole lot of information out there that you probably don't know anything about.
 

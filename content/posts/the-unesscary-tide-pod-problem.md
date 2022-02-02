@@ -27,7 +27,7 @@ I'm not going to lie, this is just an excuse to practice the [Scientific Method]
 
 The [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method) is something that I learned back in middle school and have forgotten about until I started working on this problem. It is a cyclical pattern where the input is an **[Observation/Question](#observationquestion)**, followed by **[Research into the Topic Area](#research-into-the-topic-area)**, then a **[Hypothesis](#the-hypothesis)** as to what the solution/outcome of an experiment will be, then **[Testing the Hypothesis with an Experiment](#the-experiment)**, followed by an **[Analysis of the Experimental Data](#analyzing-the-data)**, then a **[Report](#report)**, and restarting the cycle with **[Observation/Question](#observationquestion)** as we started.
 
-![The Scientific Method Pattern](images/theScientificMethod.png)
+![The Scientific Method Pattern](../images/theScientificMethod.png)
 
 > Source: [Wikipedia's *The Scientific Method* Article](https://en.wikipedia.org/wiki/Scientific_method#/media/File:The_Scientific_Method.svg)
 
