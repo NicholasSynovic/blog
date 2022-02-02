@@ -8,7 +8,7 @@ resourceDir = "resources"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
-googleAnalytics = "G-FHKW18JHK9"
+googleAnalytics = " UA-179275959-2 "
 enableRobotsTXT = true
 
 [sitemap]
