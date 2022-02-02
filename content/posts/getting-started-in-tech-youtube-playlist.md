@@ -1,7 +1,7 @@
 ---
 date: 2022-02-02T09:24:14-06:00
 description: "Here is a playlist of curated videos on YouTube of how to get a job in tech"
-draft: true
+draft: false
 show_comments: true
 summary: "There is a ton of information out there regarding how to get a job in technology. As an attempt to consolidate that, I'm going to be starting a YouTube playlist of videos that are of high quality on how to get a job in tech."
 title: "Getting Started in Tech Youtube Playlist"
