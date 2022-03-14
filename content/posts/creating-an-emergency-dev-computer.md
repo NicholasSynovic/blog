@@ -129,7 +129,8 @@ Obviously, adjust the commands below to match your needs:
 
 0. `apt install git vim openjdk-17-jre openjdk-17-jdk -y`
 1. `apt-get install build-essential gdb pkg-config libbz2-dev libffi-dev libgdbm-dev libgdbm-compat-dev liblzma-dev libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev lzma lzma-dev tk-dev uuid-dev zlib1g-dev -y`
-2. `git clone https://github.com/python/cpython python && cd python && ./configure --enable-optimizations -j 8 && cd .. && rm -r python`
+2. `git clone https://github.com/python/cpython python && cd python && ./configure --enable-optimizations && make -j4 && make install && cd .. && yes | rm -r python`
 **NOTE**: The `-j` flag is the number of cores to use to compile the software.
 You can find out the maximum number of cores that you can use by dividing
 the output of `nproc` by 2
+3. `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
