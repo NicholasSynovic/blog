@@ -127,10 +127,21 @@ files (if any).
 The following commands install the software that I want in my environment.
 Obviously, adjust the commands below to match your needs:
 
-0. `apt install git vim openjdk-17-jre openjdk-17-jdk -y`
+0. `apt install git vim openjdk-17-jre openjdk-17-jdk curl wget -y`
 1. `apt-get install build-essential gdb pkg-config libbz2-dev libffi-dev libgdbm-dev libgdbm-compat-dev liblzma-dev libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev lzma lzma-dev tk-dev uuid-dev zlib1g-dev -y`
 2. `git clone https://github.com/python/cpython python && cd python && ./configure --enable-optimizations && make -j4 && make install && cd .. && yes | rm -r python`
 **NOTE**: The `-j` flag is the number of cores to use to compile the software.
 You can find out the maximum number of cores that you can use by dividing
 the output of `nproc` by 2
-3. `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+3. `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash && source .bashrc && nvm install node`
+
+## Wrapping Up
+
+Will I ever use this dev environment? Most likely no. This is a really cool
+vanity project that I *will* flex on my colleagues with.
+
+The only practical application that I have for this is that it demonstrates that
+modern mobile OS's have the capability to provide for a development environment
+that (I would argue) wasn't possible a decade ago. This could prove as a great
+introduction to shell scripting for students, or even as a tool that can be
+integrated into automation software like [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).
